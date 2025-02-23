@@ -1,0 +1,17 @@
+{
+  "name": "portfolio-project-2",
+  "version": "1.0.0",
+  "description": "A platform for developers to showcase their projects, skills, and achievements.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jashanjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "helmet": "^8.0.0"
+  }
+}
